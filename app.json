@@ -1,5 +1,14 @@
 {
   "expo": {
+    "name": "BitGlade Site App",
+    "icon": "./img/bg-icon.png",
+    "version": "1.0.0",
+    "ios": {
+        "bundleIdentifier": "com.bitglade.siteApp"
+    },
+    "android": {
+        "package": "com.bitglade.siteApp"
+    },
     "sdkVersion": "26.0.0"
   }
 }
